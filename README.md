@@ -1,4 +1,4 @@
-#  Assessment Project: Log Search
+# Log Search
 
 ## System Requirements
 * Java 17

@@ -41,11 +41,6 @@ http://localhost:8080?level=INFO&message=database
 * Everything that comes after level and time is considered as a message.
 * The between query for log time is inclusive.
 
-## If given more time
-* More unit tests, currently only two were written
-* Integration tests for QueryCreator Util. Create an H2 database in the startup and tests use cases such as invalid Operator in configuration.
-* Implement Error Handlers, for example, send Bad Request when invalid query params are sent.
-
 ## Optimization of the application for millions of data
 
 ### Problem Statement
